@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817204205975",
+    "firebase_url": "https://authlogin-fd959-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "authlogin-fd959",
+    "storage_bucket": "authlogin-fd959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817204205975:android:41bc7ba20c1e2e77970cd2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_version"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817204205975-ei7jcglfm77grb074gl0tlnko8tbduv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5iMLZn8CcB6xeSCHmNO1gEj_JF26IBTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817204205975-ei7jcglfm77grb074gl0tlnko8tbduv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
